@@ -2,3 +2,5 @@ credit_card_fraud_detection/creditcard.csv
 product_recommendation/ratings_Electronics.csv
 store_sales_prediction/data
 shakila_sql_analysis/sakila_master.db
+node_embeddings/data
+node_embeddings/embedding

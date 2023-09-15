@@ -1,0 +1,10 @@
+numpy
+ipykernel
+pandas
+networkx
+node2vec
+matplotlib
+scipy
+scikit-learn
+dataframe_image
+seaborn
